@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 About Me
 
-:mortar_board: **Class 12 Student** (Science Stream - PCM) currently navigating board exams and competitive entrance tests.
+:mortar_board: **International Baccalaureate Diploma Programme, Class 12 Student** (Science Stream - PCM currently navigating board exams and competitive entrance tests.
 
 :microscope: **A science enthusiast** with a growing interest in Computer Science, problem-solving, and how technology shapes our world.
 
