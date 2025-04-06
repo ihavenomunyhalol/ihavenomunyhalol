@@ -18,15 +18,15 @@
 
 ## 🌱 Currently Exploring
 
-*   🌐 Experimenting with basic **Web Development** concepts (HTML, CSS)
-*   🧠 Getting started with **AI & Python-based projects**
+* 🌐 Experimenting with basic **Web Development** concepts (HTML, CSS)
+* 🧠 Getting started with **AI & Python-based projects**
 
 ---
 
 ## 🎯 2025 Goals
 
 - ✅ Score 1500+ on the SAT  
-- ✅ Contribute to an open-source repo  
+- 🚧 Build and deploy my **own app** (educational or productivity-based)
 
 ---
 
@@ -34,7 +34,7 @@
 
 Here are a few things I'm working on or have built recently:
 
-- 🌐 **Simple Personal Portfolio** — Basic HTML/CSS website hosted on GitHub Pages
+- 🌐 **Simple Personal Portfolio** — Basic HTML/CSS website hosted on GitHub Pages  
 - 🤖 **Hamster Firefighting Robot** — Robotics logic + fire detection algorithm for a school project
 
 ---
