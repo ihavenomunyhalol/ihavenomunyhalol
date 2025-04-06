@@ -73,3 +73,5 @@ Here are a few things I'm working on or have built recently:
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/uzair-malik-28591735a)  
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/uzairmalik2007)  
 [<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:uzair2007malik@gmail.com)
+
+---
