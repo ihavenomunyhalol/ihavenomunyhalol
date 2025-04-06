@@ -8,11 +8,11 @@
 
 ## 👨‍🎓 About Me
 
-:mortar_board: **International Baccalaureate Diploma Programme, Class 12 Student** (Science Stream - PCM currently navigating board exams and competitive entrance tests.
+:mortar_board: **International Baccalaureate Diploma Programme 2 Student** (Science Stream - Physics, Maths, Computer Science, currently navigating board exams and competitive entrance tests.
 
 :microscope: **A science enthusiast** with a growing interest in Computer Science, problem-solving, and how technology shapes our world.
 
-:rocket: **Fueled by curiosity**, I enjoy exploring complex concepts in Physics, Chemistry, and Mathematics, and learning the fundamentals of programming.
+:rocket: **Fueled by curiosity**, I enjoy exploring complex concepts in Physics and Mathematics, and learning the fundamentals of programming.
 
 :books: **Dedicated learner and avid reader** who believes in understanding concepts thoroughly and enjoys tackling challenging problems.
 
@@ -21,18 +21,15 @@
 
 ## 🌱 Currently Exploring
 
-*   :computer: Deepening my understanding of **Data Structures and Algorithms** using C++.
-*   :chart_with_upwards_trend: Rigorously preparing for **[Mention Specific Exam, e.g., JEE Main/Advanced]**.
+*   :chart_with_upwards_trend: Rigorously preparing for **[SAT]**.
 *   :globe_with_meridians: Experimenting with basic **Web Development** concepts (HTML, CSS).
-*   :book: Reading "[Mention a relevant book or topic, e.g., 'Structure and Interpretation of Computer Programs']".
 
 ## 🔗 Connect With Me
 
 <!-- IMPORTANT: Replace '#' with your actual profile links! -->
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](#)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](#)
-[<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>](#)
-[<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:your.email@example.com) <!-- Replace with your email -->
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](linkedin.com/in/uzair-malik-28591735a)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/uzairmalik2007)
+[<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](uzair2007malik@gmail.com) <!-- Replace with your email -->
 
 ---
 
