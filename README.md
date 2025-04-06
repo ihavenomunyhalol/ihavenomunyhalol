@@ -18,19 +18,15 @@
 
 ## 🌱 Currently Exploring
 
-*   📊 Preparing for the **SAT**
 *   🌐 Experimenting with basic **Web Development** concepts (HTML, CSS)
 *   🧠 Getting started with **AI & Python-based projects**
-*   🤖 Working on a **Hamster robot firefighting project**
 
 ---
 
 ## 🎯 2025 Goals
 
 - ✅ Score 1500+ on the SAT  
-- ✅ Complete 2 full-stack mini projects  
 - ✅ Contribute to an open-source repo  
-- ✅ Create a web app using Python + Flask  
 
 ---
 
@@ -38,7 +34,6 @@
 
 Here are a few things I'm working on or have built recently:
 
-- 🧠 **AI Notes Generator** — Python app that summarizes study material *(in progress)*
 - 🌐 **Simple Personal Portfolio** — Basic HTML/CSS website hosted on GitHub Pages
 - 🤖 **Hamster Firefighting Robot** — Robotics logic + fire detection algorithm for a school project
 
